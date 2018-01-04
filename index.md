@@ -1,5 +1,3 @@
-## Welcome to IEOR 8100: Reinforcement Learning 
-
 ## Course Info
 
 [Syllabus](https://github.com/ieor8100/rl/blob/master/Reinforcement%20Learning%20course%20syllabus.pdf)
