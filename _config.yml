@@ -1,6 +1,6 @@
 title: IEOR 8100
 description: Topics in Reinforcement Learning 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 github_button_location_top_navbar: false
