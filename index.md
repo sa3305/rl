@@ -1,11 +1,8 @@
 ## Welcome to IEOR 8100: Reinforcement Learning 
 
-
-# Course
+## Course Info
 
 [Syllabus](https://github.com/ieor8100/rl/blob/master/Reinforcement%20Learning%20course%20syllabus.pdf)
-
-## Course Info
 
 Instructor: Shipra Agrawal
 
@@ -16,7 +13,7 @@ Lecture (644 Seeley W. Mudd Building): Mondays from 1:10-3:40pm
 Instructor Office Hours: Wednesdays from 1:00pm-2:00pm
 
 
-#### TA Office Hours: TBA
+## TA Office Hours: TBA
 
 ## Schedule
 
