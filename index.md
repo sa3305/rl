@@ -3,7 +3,7 @@
 
 # Course
 
-[Syllabus](https://docs.google.com/document/d/1f6CLk1n6UHFu-HcXi54szjBKe59f0gRTzG0qidMyNPE/edit#)
+[Syllabus](https://github.com/ieor8100/rl/blob/master/Reinforcement%20Learning%20course%20syllabus.pdf)
 
 ## Course Info
 
