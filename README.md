@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Advanced topics in OR: Reinforcement Learning 
 
 You can use the [editor on GitHub](https://github.com/ieor8100/rl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
