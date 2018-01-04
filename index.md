@@ -19,6 +19,6 @@ Office Hours: TBA
 
 ## Schedule
 
-| Class    | Topics                           |  Lecture notes |
+| Class|Topics|  Lecture notes |
 
 |Jan 22    | Introduction, MDP algorithms     |                |
