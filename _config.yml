@@ -5,5 +5,5 @@ google_analytics:
 theme: jekyll-theme-slate
 # inserts github link in top nav bar (recommended)
 github_button_location_top_navbar: false
-
-footer: hi
+copyright:
+footer: 
