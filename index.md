@@ -1,4 +1,4 @@
-## Welcome to Advanced topics in OR: Reinforcement Learning 
+## Welcome to IEOR 8100: Reinforcement Learning 
 
 
 # Course
