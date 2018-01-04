@@ -4,8 +4,10 @@
 
 #### Instructor: 
 Shipra Agrawal
+
 Office: Mudd 423
-Instructor Office Hours: Wednesdays from 1:00pm-2:00pm
+
+Office Hours: Wednesdays from 1:00pm-2:00pm
 
 #### Lecture 
 (644 Seeley W. Mudd Building): Mondays from 1:10-3:40pm
