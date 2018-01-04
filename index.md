@@ -18,9 +18,6 @@ Instructor Office Hours: Wednesdays from 1:00pm-2:00pm
 Office Hours: TBA
 
 ## Schedule
-## Schedule
-
-| Class    | Topics                           |  Resources |  Deadlines |
 
 | Class|Topics|  Lecture notes |
 
