@@ -21,4 +21,4 @@ Office Hours: TBA
 
 | Class|Topics|  Lecture notes |
 |------|------|----------------|
-|Jan 22    | Introduction, MDP algorithms     |                |
+|Jan 22    | Introduction to MDP, Dynamic Programming     |                |
