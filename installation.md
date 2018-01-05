@@ -1,7 +1,7 @@
 
-# Installation Instructions
+# Software Installation Instructions
 
-We recommend installing the following software packages to your local computer on which you would like to implement your programming assignments. All these are pre-installed in the cloud platform, but we still recommend installing them on your personal computer to be able to conduct these experiments beyond this course.
+We recommend installing the following software packages to your local computer on which you would like to implement your programming assignments. (All these are pre-installed in the cloud platform, but we still recommend installing them on your personal computer to be able to conduct these experiments beyond this course.)
 
 ## Anaconda
 (Anaconda ncludes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.)<br>
