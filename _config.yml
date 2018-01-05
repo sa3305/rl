@@ -1,10 +1,10 @@
 title: IEOR 8100
 description: Topics in Reinforcement Learning 
+theme: jekyll-theme-slate
 navbar-links:
   Author's home: "http://deanattali.com"
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
 github_button_location_top_navbar: true
 copyright:
 footer:
