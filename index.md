@@ -4,7 +4,8 @@
 **Lecture:** (644 Seeley W. Mudd Building): Mondays from 1:10-3:40pm\
 **Instructor:** Shipra Agrawal\
 **Instructor Office Hours:** Wednesdays from 1:00pm-2:00pm, Mudd 423\
-**TA Office Hours:** TBA
+**TA:** TBD
+**TA Office Hours:** TBD
 
 ## Programming Assignments
 * **[Instabase Cloud Platform](cloud.md)** 
