@@ -8,6 +8,8 @@ Below are some brief instructions for creating your account on Instabase.
 
 **IMPORTANT: Please use only your columbia email, i.e.,\
 UNI@columbia.edu\
+and username\
+UNI
 to create your instabase account. Otherwise, your assignments may not get graded.**
 
 ## GETTING STARTED
