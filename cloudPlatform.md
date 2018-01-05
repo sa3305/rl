@@ -3,7 +3,6 @@
 ## Instabase
 We will use Instabase for assignment submissions. All of the course assignments use Jupyter notebooks. To avoid each student needing to install Jupyter on his or her computer, Instabase provides Jupyter notebooks hosted in the cloud. Further, we have got other required software packages installed here (Tensorflow, OpenAI gym). Therefore, it is a "ready-to-go" platform for your programming assignments in this course. 
 
-Detailed instructions on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)\
 Below are some brief instructions for creating your account on Instabase. 
 
 **!IMPORTANT!**  \
@@ -27,3 +26,4 @@ will see an initial repository named my-repo. You can change the repository name
 
 
 
+Further detailed instructions on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)\
