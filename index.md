@@ -20,7 +20,7 @@ Office Hours: TBA
 ## Programming Assignments
 ### [Instabase Cloud Platform](cloud.md) 
 for assignment implementation and submission
-### [Standalone Software Installation Instructions](installation.md) 
+### [Software Installation Instructions](installation.md) 
 for PC/Mac
 
 ## Schedule
