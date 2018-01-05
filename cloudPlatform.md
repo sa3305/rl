@@ -3,8 +3,7 @@ Instabase provides Jupyter notebooks hosted in the cloud.
 Further, we have got other required software packages installed here (Tensorflow, OpenAI gym). Therefore, it is a "ready-to-go" platform 
 for your programming assignments in this course. 
 
-Detailed instructions on using this platform are here: [Student Guide](docs/Instabase_Student Guide.docx)
-
+Detailed instructions on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)
 ## GETTING STARTED
 
 ### Step 1: Get an Instabase account
