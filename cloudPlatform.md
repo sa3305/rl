@@ -23,6 +23,11 @@ Repositories in Instabase contain your data, notebooks, and other files. They ar
 folders and files, just like a typical filesystem. Once your account is created and you log in, you
 will see an initial repository named my-repo. You can change the repository name by clicking the three vertical dots at the right end of the repository name and selecting Settings from the dropdown menu.
 
+#### Step 3: 
+The course link ** will be provided ** contains the course materials: copy them inside your repository. 
 
+#### Step 4:
+Right-click or control-click on the notebook for the assignment you want to finish and select Open With > Jupyter.  Sometimes it will take a minute or so for a new Jupyter server to start up on your behalf. Once it does, you are ready to go!
 
-Further detailed instructions on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)
+## Further detailed instructions 
+with pictures on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)
