@@ -10,7 +10,7 @@ Detailed instructions on using this platform are here: [Student Guide](docs/Inst
 
 Go to https://www.instabase.com/account/register?use_token=true \
 Type in your email and your desired username and password.\
-Use the token: <** your instructor will give you a token**>\
+Use the token: **Instructor will give you a token**\
 Click the Create an account button, complete the email verification process, and you’re all set.\
 **Note:** If you tried to get an Instabase account without following the link above and were placed on a waiting list, please follow this link [https://www.instabase.com/account/login?use_token=true] to activate your account using the same token as in Step 3. 
 
