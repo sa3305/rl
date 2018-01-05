@@ -8,7 +8,7 @@
 **TA Office Hours:** TBD
 
 ## Programming Assignments
-* **[Instabase Cloud Platform](cloud.md)** 
+* **[Instabase Cloud Platform](cloudPlatform.md)** 
 for assignment implementation and submission
 * **[Software Installation Instructions](installation.md)**
 for Windows/Mac
