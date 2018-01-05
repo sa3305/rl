@@ -17,6 +17,12 @@ Office Hours: Wednesdays from 1:00pm-2:00pm
 ##### TA 
 Office Hours: TBA
 
+## Programming Assignments
+### [Instabase Cloud Platform] (cloud.md) 
+for assignment implementation and submission
+### [Standalone Software Installation Instructions] (installation.md) 
+for PC/Mac
+
 ## Schedule
 
 | Class|Topics|  Lecture notes |
