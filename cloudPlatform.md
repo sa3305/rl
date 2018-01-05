@@ -12,10 +12,10 @@ Detailed instructions with pictures on using this platform are here: [Student Gu
 
 ### Step 1: Get an Instabase account
 
-Go to https://www.instabase.com/account/register?use_token=true \
-Type in your email (**yourUNI@columbia.edu**) and your desired username (**yourUNI**) and password.\
-Use the token: **Instructor will give you a token**\
-Click the Create an account button, complete the email verification process, and you’re all set.\
+Go to https://www.instabase.com/account/register?use_token=true <br>
+Type in your email (**yourUNI@columbia.edu**) and your desired username (**yourUNI**) and password.<br>
+Use the token: **Instructor will give you a token**<br>
+Click the Create an account button, complete the email verification process, and you’re all set.<br>
 <!--**Note:** If you tried to get an Instabase account without following the link above and were placed on a waiting list, please follow this link [https://www.instabase.com/account/login?use_token=true] to activate your account using the same token as above. -->
 
 #### Step 2: Manage and Explore Repositories
