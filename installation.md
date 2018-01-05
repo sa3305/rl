@@ -26,15 +26,17 @@ pip3 install --upgrade tensorflow
 
 #### Activate by issuing the following command:
 
-Windows: 
+#### Windows: 
 
 C:> activate tensorflow
 
-Mac: 
+(tensorflow) C:>  
+
+### Mac: 
 
 $ source activate tensorflow
 
- (tensorflow) C:>  
+ 
 
 (tensorflow) $
 
