@@ -5,10 +5,8 @@ We will use Instabase for assignment submissions. All of the course assignments 
 
 Below are some brief instructions for creating your account on Instabase. 
 
-**!IMPORTANT!**  \
+##IMPORTANT!##
 `Please use only your columbia email, i.e., yourUNI@columbia.edu and username yourUNI to create your instabase account. Otherwise, your assignments may not get graded.`
-
-## GETTING STARTED
 
 ### Step 1: Get an Instabase account
 
