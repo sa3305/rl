@@ -26,4 +26,4 @@ will see an initial repository named my-repo. You can change the repository name
 
 
 
-Further detailed instructions on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)\
+Further detailed instructions on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)
