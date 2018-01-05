@@ -8,14 +8,15 @@ Below are some brief instructions for creating your account on Instabase.
 **IMPORTANT!** `Please use only your columbia email, i.e., yourUNI@columbia.edu and username yourUNI to create your instabase account. Otherwise, your assignments may not get graded.`
 
 ## Getting Started
+Detailed instructions with pictures on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx). Below is a summary.
 
 ### Step 1: Get an Instabase account
 
 Go to https://www.instabase.com/account/register?use_token=true \
-Type in your email and your desired username and password.\
+Type in your email (**yourUNI@columbia.edu**) and your desired username (**yourUNI**) and password.\
 Use the token: **Instructor will give you a token**\
 Click the Create an account button, complete the email verification process, and you’re all set.\
-**Note:** If you tried to get an Instabase account without following the link above and were placed on a waiting list, please follow this link [https://www.instabase.com/account/login?use_token=true] to activate your account using the same token as above. 
+<!--**Note:** If you tried to get an Instabase account without following the link above and were placed on a waiting list, please follow this link [https://www.instabase.com/account/login?use_token=true] to activate your account using the same token as above. -->
 
 #### Step 2: Manage and Explore Repositories
 
@@ -24,10 +25,9 @@ folders and files, just like a typical filesystem. Once your account is created 
 will see an initial repository named my-repo. You can change the repository name by clicking the three vertical dots at the right end of the repository name and selecting Settings from the dropdown menu.
 
 #### Step 3: 
-The course link ** will be provided ** contains the course materials: copy them inside your repository. 
+The course link (**will be provided by the instructor**) contains the course materials and assignments: copy them inside your repository. 
 
 #### Step 4:
 Right-click or control-click on the notebook for the assignment you want to finish and select Open With > Jupyter.  Sometimes it will take a minute or so for a new Jupyter server to start up on your behalf. Once it does, you are ready to go!
 
-## Further detailed instructions 
-with pictures on using this platform are here: [Student Guide](docs/Instabase_%20Student%20Guide.docx)
+
