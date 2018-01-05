@@ -2,8 +2,7 @@
 
 [Syllabus](Reinforcement%20Learning%20course%20syllabus.pdf)
 
-#### Lecture\
-(644 Seeley W. Mudd Building): Mondays from 1:10-3:40pm
+#### Lecture: ##### (644 Seeley W. Mudd Building): Mondays from 1:10-3:40pm
 
 #### Instructor: 
 Shipra Agrawal\
