@@ -21,7 +21,7 @@ Office Hours: TBA
 ### [Instabase Cloud Platform](cloud.md) 
 for assignment implementation and submission
 ### [Software Installation Instructions](installation.md) 
-for PC/Mac
+for Windows/Mac
 
 ## Schedule
 
