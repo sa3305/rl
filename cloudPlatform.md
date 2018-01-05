@@ -7,8 +7,7 @@ Detailed instructions on using this platform are here: [Student Guide](docs/Inst
 Below are some brief instructions for creating your account on Instabase. 
 
 **!IMPORTANT!**  \
-`Please use only your columbia email, i.e.,\
-yourUNI@columbia.edu and username yourUNI to create your instabase account. Otherwise, your assignments may not get graded.`
+`Please use only your columbia email, i.e., yourUNI@columbia.edu and username yourUNI to create your instabase account. Otherwise, your assignments may not get graded.`
 
 ## GETTING STARTED
 
