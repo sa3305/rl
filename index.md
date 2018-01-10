@@ -8,7 +8,7 @@
 **TA Office Hours:** TBD
 
 ## Course requirements
-There will be roughly four programming assignments, based on Python+ Tensorflow + OpenAI gym. Every student is also required to present one research paper. A list of papers will be provided to choose from. Additionally, the students are required to do a research project. <br>
+There will be roughly four programming assignments, based on Python+ Tensorflow + OpenAI gym. Every student is also required to read and present one recent research paper. A list of papers will be provided to choose from. Additionally, the students are required to do a research project. <br>
 More information on the schedule and duration of paper presentation, and the nature of research projects will be provided later in the course. 
 
 ## Pre-requisites
