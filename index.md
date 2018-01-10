@@ -12,7 +12,7 @@ There will be roughly four programming assignments, based on Python+ Tensorflow 
 More information on the schedule and duration of paper presentation, and the nature of research projects will be provided later in the course. 
 
 ## Pre-requisites
-The course will cover both theory of MDP (overview) and practice of reinforcement learning, with programming assignments in Python. While we will try to help with skeleton codes in the beginning, it might be too difficult for you if you have no experience in programming in any language. Basic background in linear algebra, optimization algorithms (e.g., gradient descent), probability and statistics are required. Knowledge of machine learning and advanced optimization methods will be useful, but not required.
+The course will cover both theory of MDP (overview) and practice of reinforcement learning, with programming assignments in Python. While we will try to help with skeleton codes in the beginning, it might be too difficult for you if you have no experience in programming in any language. Basic background in linear algebra, optimization algorithms (e.g., gradient descent), probability and statistics is required. Knowledge of machine learning and advanced optimization methods will be useful, but not required.
 
 ## Sotware Platform for Programming Assignments
 * **[Instabase Cloud Platform](cloudPlatform.md)** 
