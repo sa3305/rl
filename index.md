@@ -21,7 +21,7 @@ for assignment implementation and submission
 for Windows/Mac
 
 ## Piazza
-We'll be conducting all class-related discussion on Piazza this term. The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. We encourage you to ask questions when you're struggling to understand a concept—you can even do so anonymously and/or privately. 
+We'll be conducting all class-related discussion on Piazza this term. The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. We encourage you to ask questions when you're struggling to understand a concept—you can even do so anonymously and/or privately. <br>
 [Sign up for piazza here](piazza.com/columbia/spring2018/ieore8100_006_2018_1advancedtopicsinieor)<br>
 [View your class discussion here](piazza.com/columbia/spring2018/ieore8100_006_2018_1advancedtopicsinieor/home)
 
