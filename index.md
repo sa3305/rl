@@ -1,7 +1,7 @@
 ## Course Info
 
 **[Syllabus](Reinforcement%20Learning%20course%20syllabus.pdf)**<br>
-**Lecture:** (644 Seeley W. Mudd Building): Mondays from 1:10-3:40pm<br>
+**Lecture:** (644 Seeley W. Mudd Building, Columbia University): Mondays from 1:10-3:40pm<br>
 **Instructor:** Shipra Agrawal<br>
 **Instructor Office Hours:** Wednesdays from 1:00pm-2:00pm, Mudd 423<br>
 **TA:** TBD<br>
