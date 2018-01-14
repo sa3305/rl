@@ -34,6 +34,6 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
 * Neuro-dynamic Programming, by Dimitri P. Bertsekas and John Tsitsiklis
-* [Reinforcement Learning: An Introduction](ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf),  by Andrew Barto and Richard S. Sutton
+* [Reinforcement Learning: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf),  by Andrew Barto and Richard S. Sutton
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html), by Csaba Szepesv&aacute;ri
 * Recent research papers on deep reinforcement learning
