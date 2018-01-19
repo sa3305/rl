@@ -25,7 +25,9 @@ folders and files, just like a typical filesystem. Once your account is created 
 will see an initial repository named my-repo. You can change the repository name by clicking the three vertical dots at the right end of the repository name and selecting Settings from the dropdown menu.
 
 #### Step 3: 
-The course link (**will be provided by the instructor**) contains the course materials and assignments: copy them inside your repository my-repo. 
+The course link <br>
+https://www.instabase.com/sa3305/ieor-8100-public <br>
+contains the course materials and assignments: copy them inside your repository my-repo. 
 
 #### Step 4:
 Right-click or control-click on the notebook for the assignment you want to finish and select Open With > Jupyter.  Sometimes it will take a minute or so for a new Jupyter server to start up on your behalf. Once it does, you are ready to go!
