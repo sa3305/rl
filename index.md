@@ -29,7 +29,7 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 
 | Class|Topics|  Lecture notes |
 |------|------|----------------|
-|Jan 22    | Course Introduction, Introduction to MDP    |   [Course Intro](docs/Intro.pdf), Section 1-3 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)         |
+|Jan 22    | Course Introduction, Introduction to MDP    |   [Intro slides](docs/Intro.pdf), Section 1-3 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)         |
 |Jan 29    | Dynamic Programming, Iterative algorithms for MDP| |
 
 ## References 
