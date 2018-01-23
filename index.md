@@ -29,7 +29,8 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 
 | Class|Topics|  Lecture notes |
 |------|------|----------------|
-|Jan 22    | Introduction to MDP, Dynamic Programming     |                |
+|Jan 22    | Course Introduction, Introduction to MDP    |   [Course Intro](docs/Intro.pdf), [Lecture: MDP](docs/Lecture 1%-MDP.pdf)         |
+|Jan 29    | Dynamic Programming, Iterative algorithms for MDP| |
 
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
