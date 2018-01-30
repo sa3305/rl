@@ -30,7 +30,7 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 | Class|Topics|  Lecture notes |
 |------|------|----------------|
 |Jan 22    | Course Introduction <br> Introduction to MDP    |   [Intro slides](docs/Intro.pdf) <br> Section 1-3 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)         |
-|Jan 29    | Dynamic Programming, Iterative algorithms for MDP| Section 4-5 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)|
+|Jan 29    | Bellman equations, Iterative algorithms for MDP| Section 4-5 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)|
 
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
