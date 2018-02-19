@@ -32,6 +32,7 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 |Jan 22    | Course Introduction <br> Introduction to MDP    |   [Intro slides](docs/Intro.pdf) <br> Section 1-3 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)         |
 |Jan 29    | Bellman equations, Iterative algorithms for MDP| Section 4-5 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)|
 |Feb 5    | TD-learning, Q-learning (tabular)| [Lecture 2: tabular RL](docs/Lecture%202-%20Q%20learning%20tabular.pdf)|
+|Feb 12   | Scalable Q-learning, DQN | |
 
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
