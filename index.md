@@ -33,7 +33,8 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 |Jan 29    | Bellman equations, Iterative algorithms for MDP| Section 4-5 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)|
 |Feb 5    | TD-learning, Q-learning (tabular)| [Lecture 2: tabular RL](docs/Lecture%202-%20Q%20learning%20tabular.pdf)|
 |Feb 12   | Scalable Q-learning, DQN | [Lecture 3: Q-learning function approximation](docs/Lecture%203%20-%20Q-learning%20function%20approximation.pdf) <br> [Tensorflow and deep learning tutorial](docs/feb12slides.pdf)|
-|Feb 19   |  Approximate DP theory, Fitted value iteration (the lecture notes are under construction, will be updated soon)| [Lecture 4: Approximate dp](docs/Lecture%204%20-%20approximate%20DP.pdf)
+|Feb 19   |  Approximate DP theory, Fitted value iteration (the lecture notes are under construction, will be updated soon)| [Lecture 4: Approximate dp](docs/Lecture%204%20-%20approximate%20DP.pdf)|
+|Feb 26 | Policy gradient (under construction) | [Lecture 5: policy gradient](docs/Lecture%205%20-%20policy%20gradients.pdf)
 
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
