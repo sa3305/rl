@@ -23,7 +23,7 @@ More information on the schedule and duration of paper presentation, and the nat
 ### Summary of upcoming deadlines
 * March 5: Lab 2 due
 * March 9: make paper selections
-* March 26: 1-page paper proposals
+* March 26: 1-page project proposals due
 * March 30: Lab 3 due (already posted)
 * April 9: Lab 4 due
 * April 30: 1st draft of project report due (a presentation of your project may be schduled in that week or a week earlier)
