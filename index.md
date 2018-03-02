@@ -11,6 +11,14 @@
 There will be roughly four programming assignments, based on Python+ [Tensorflow](https://www.tensorflow.org/) + [OpenAI gym](https://gym.openai.com/envs/). Every student is also required to read and present one recent research paper. A list of papers will be provided to choose from. Additionally, the students are required to do a research project. <br>
 More information on the schedule and duration of paper presentation, and the nature of research projects will be provided later in the course. 
 
+### New!
+* [Reference list](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) for paper selection 
+  * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection.
+  * Deadline for paper selection *March 9*
+* [Guidance on project](projects.md)
+  * Deadline for 1-page project proposal *March 26*
+  * Project reports due (1st draft) *April 30*, Final draft due on *May 6*.
+
 ## Pre-requisites
 The course will cover both theory of MDP (overview) and practice of reinforcement learning, with programming assignments in Python. While we will try to help with skeleton codes in the beginning, it might be too difficult for you if you have no experience in programming in any language. Basic background in linear algebra, optimization algorithms (e.g., gradient descent), probability and statistics is required. Knowledge of machine learning and advanced optimization methods will be useful, but not required.
 
