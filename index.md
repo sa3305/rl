@@ -20,6 +20,15 @@ More information on the schedule and duration of paper presentation, and the nat
   * Project reports due (1st draft) *April 30*, Final draft due on *May 6*.
 * Lab 3 on DQN posted. Due on March 30 (notice that Lab 4 will be posted on March 19, so it is advisable to finish Lab 3 before that)
 
+### Summary of upcoming deadlines
+* March 5: Lab 2 due
+* March 9: make paper selections
+* March 26: 1-page paper proposals
+* March 30: Lab 3 due (already posted)
+* April 9: Lab 4 due
+* April 30: 1st draft of project report due (a presentation of your project may be schduled in that week or a week earlier)
+* May 6: Final draft of project report due
+
 ## Pre-requisites
 The course will cover both theory of MDP (overview) and practice of reinforcement learning, with programming assignments in Python. While we will try to help with skeleton codes in the beginning, it might be too difficult for you if you have no experience in programming in any language. Basic background in linear algebra, optimization algorithms (e.g., gradient descent), probability and statistics is required. Knowledge of machine learning and advanced optimization methods will be useful, but not required.
 
