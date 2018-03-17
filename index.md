@@ -39,7 +39,7 @@ for assignment implementation and submission
 for Windows/Mac
 
 ## Piazza
-We'll be conducting all class-related discussion on Piazza this term. The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. We encourage you to ask questions when you're struggling to understand a concept—you can even do so anonymously and/or privately. <br>
+We'll be conducting all class-related discussion on Piazza this term. The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. We encourage you to ask questions when you're struggling to understand a concept. You can even do so anonymously and/or privately. <br>
 [Sign up for piazza here](http://piazza.com/columbia/spring2018/ieore8100_006_2018_1advancedtopicsinieor)<br>
 [View your class discussion here](http://piazza.com/columbia/spring2018/ieore8100_006_2018_1advancedtopicsinieor/home)
 
@@ -54,6 +54,7 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 |Feb 19   |  Approximate DP theory, Fitted value iteration (the lecture notes are under construction, will be updated soon)| [Lecture 4: Approximate dp](docs/Lecture%204%20-%20approximate%20DP.pdf)|
 |Feb 26 | Policy gradient methods | [Lecture 5: policy gradient](docs/Lecture%205%20-%20policy%20gradients.pdf)|
 |Mar 5 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
+|Mar 5, March 19 | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
 
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
