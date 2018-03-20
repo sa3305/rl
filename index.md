@@ -18,7 +18,8 @@ More information on the schedule and duration of paper presentation, and the nat
 * [Guidance on project](projects.md)
   * Deadline for 1-page project proposal *March 26*
   * Project reports due (1st draft) *April 30*, Final draft due on *May 6*.
-[//]: * Lab 3 on DQN posted. Due on March 30 (notice that Lab 4 will be posted on March 19, so it is advisable to finish Lab 3 before that)
+* [Lab 3 on DQN posted](https://www.instabase.com/sa3305/ieor-8100-public/fs/Instabase%20Drive/). 
+  * Due on March 30 
 
 ### Summary of upcoming deadlines
 * March 5: Lab 2 due
