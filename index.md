@@ -54,7 +54,8 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 |Feb 19   |  Approximate DP theory, Fitted value iteration (the lecture notes are under construction, will be updated soon)| [Lecture 4: Approximate dp](docs/Lecture%204%20-%20approximate%20DP.pdf)|
 |Feb 26 | Policy gradient methods | [Lecture 5: policy gradient](docs/Lecture%205%20-%20policy%20gradients.pdf)|
 |Mar 5 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
-|Mar 5, March 19 | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
+|Mar 5, Mar 19 | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
+|Mar 19| Guest lecture by Krzysztof Choromanski | [Slides](docs/slides_structured_ES_Columbia_talk.pdf)|
 
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
