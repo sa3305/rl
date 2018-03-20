@@ -53,3 +53,22 @@ Install using the following commands:
 git clone https://github.com/openai/gym <br>
 cd gym<br>
 pip install -e . # minimal install <br>
+
+## Installation script
+In case you find it hard to to follow the installation guide for packages. Here is the script that you could run to install all dependencies. By following the steps below, you will create an environment called 'rl', the script is tested only under mac. The script is here install.sh.
+
+1. open your mac terminal 
+2. navigate to the directory of the script, run command 
+
+chmod u+x install.sh && ./install.sh
+
+3. type y for all the questions you will be asked during the installation.
+4. if no error pops up, the installation succeeds.
+
+Every time you code the lab, remember to run the following command before coding
+
+source activate rl
+
+To open the jupyter notebook, run
+
+jupyter notebook
