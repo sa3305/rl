@@ -57,6 +57,7 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 |Mar 5 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
 |Mar 5 | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
 |Mar 19| Guest lecture by [Krzysztof Choromanski](https://research.google.com/pubs/KrzysztofChoromanski.html) | [Slides](docs/slides_structured_ES_Columbia_talk.pdf)|
+|Mar 26| Guest lecture by Boyuan Chen on RL in robotics|[Slides](docs/RL%20in%20Robotics.pdf)|
 
 ## References 
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
