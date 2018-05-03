@@ -1,13 +1,16 @@
+Following is a list of recent papers in reinforcement learning that we studied as a part of this course. I apologize for not include detailed attribution to the authors of these papers.
+
 | Title of the paper                                           | Category                               |
 | ------------------------------------------------------------ | -------------------------------------- |
 | Trust  Region Policy Optimization                            | Policy  optimization                   |
 | Proximal  Policy Optimization Algorithms                     | Policy  optimization                   |
-| Asynchronous  Methods for Deep Reinforcement Learning        | Policy  optimization actor critic      |
+| Asynchronous  Methods for Deep Reinforcement Learning        | Policy  optimization, actor critic     |
 | Playing  Atari with Deep Reinforcement Learning              | Application  - games,  Deep Q learning |
 | Deep  Reinforcement Learning with Double Q-learning          | Deep Q-learning                        |
 | Prioritized  Experience Replay                               | Deep Q-learning                        |
 | Deep  Reinforcement Learning with Double Q-Learning          | Deep Q-learning                        |
-| Deep  Exploration via Bootstrapped DQN, Noisy Nets for Exploration | Deep Q-learning, exploration           |
+| Deep  Exploration via Bootstrapped DQN                       | Deep Q-learning, exploration           |
+| Noisy Nets for Exploration                                   | Deep Q-learning, exploration           |
 | Hindsight  experience replay                                 | Deep Q-learning                        |
 | Learning  with Opponent-Learning Awareness                   | Multi-agent                            |
 | Multi-Agent  Actor-Critic for Mixed Cooperative-Competitive Environments | Multi-agent,  Policy optimization      |
@@ -22,8 +25,9 @@
 | Mastering  the game of Go with deep neural networks and tree search, | Application  - games                   |
 | PAC  Model-Free Reinforcement Learning                       | Theory                                 |
 | UCB  Exploration via Q-Ensembles                             | Theory                                 |
-| Minimax  Regret Bounds for Reinforcemenet Learning           | Theory                                 |
-| Deep  exploration via Randomized Value Functions, Efficient Reinforcement learning  via Posterior Sampling | Theory, Exploration-Exploitation       |
+| Minimax Regret Bounds for Reinforcement Learning             | Theory                                 |
+| Efficient Reinforcement learning  via Posterior Sampling     | Theory                                 |
+| Deep  exploration via Randomized Value Functions,            | Theory, Exploration                    |
 | Neural  Combinatorial Optimization with Reinforcement Learning | Application  - combinatorial opt       |
 | Deep  Direct Reinforcement Learning for Financial Signal Representation and Trading | Application  -finance                  |
 | Learning  to optimize                                        | Application  - combinatorial opt       |
