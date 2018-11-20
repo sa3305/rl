@@ -21,8 +21,9 @@ for assignment implementation and submission -->
 * **[Software Installation Instructions](installation.md)**
 for Windows/Mac
 
-### Reference material
-* [Reference list](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) for paper selection 
+## Reference material
+* [Recent relevant articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
+<!--for paper selection -->
   <!--* If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection.
   * Deadline for paper selection *March 9*-->
 * [Guidance on project](projects.md)
