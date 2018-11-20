@@ -48,9 +48,7 @@ This is the link to your course page on Piazza.
 <!--## References -->
 ## Reference material
 * [Recent research articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
-<!--for paper selection -->
-  <!-- * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection. -->
-  <!-- Deadline for paper selection *March 9*-->
+<!--for paper selection -->   <!-- * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection. -->   <!-- Deadline for paper selection *March 9*-->
 * [Guidance on project](projects.md)
   <!--* Deadline for 1-page project proposal *March 26*-->
   <!--* Project reports due (1st draft) *April 30*, Final draft due on *May 6*.-->
