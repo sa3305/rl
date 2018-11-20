@@ -47,7 +47,7 @@ This is the link to your course page on Piazza.
 
 <!--## References -->
 ## Reference material
-* [Recent relevant articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
+* [Recent research articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
 <!--for paper selection -->
   <!-- * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection. -->
   <!-- Deadline for paper selection *March 9*-->
@@ -58,4 +58,4 @@ This is the link to your course page on Piazza.
 * Neuro-dynamic Programming, by Dimitri P. Bertsekas and John Tsitsiklis
 * [Reinforcement Learning: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf),  by Andrew Barto and Richard S. Sutton
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html), by Csaba Szepesv&aacute;ri
-* Recent research papers on deep reinforcement learning
+<!-- Recent research papers on deep reinforcement learning--
