@@ -8,7 +8,9 @@
 **TA Office Hours:** TBD <!--12:30-1:30 pm Fridays-->
 
 ## Course requirements
-There will be roughly four programming assignments, based on Python+ [Tensorflow](https://www.tensorflow.org/) + [OpenAI gym](https://gym.openai.com/envs/). Every student is also required to read and present one recent research paper. A list of papers will be provided to choose from. Additionally, the students are required to do a research project. <br>
+(Course requirements are subject to change based on class size) <br>
+There will be roughly four programming assignments, based on Python+ [Tensorflow](https://www.tensorflow.org/) + [OpenAI gym](https://gym.openai.com/envs/). <br>
+Every student is also required to read and present one recent research paper. A list of papers will be provided to choose from. Additionally, the students are required to do a research project. <br>
 More information on the schedule and duration of paper presentation, and the nature of research projects will be provided later in the course. 
 
 
