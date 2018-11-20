@@ -23,22 +23,13 @@ for assignment implementation and submission -->
 * **[Software Installation Instructions](installation.md)**
 for Windows/Mac
 
-## Reference material
-* [Recent relevant articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
-<!--for paper selection -->
-  <!-- * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection. -->
-  <!-- Deadline for paper selection *March 9*-->
-* [Guidance on project](projects.md)
-  <!--* Deadline for 1-page project proposal *March 26*-->
-  <!--* Project reports due (1st draft) *April 30*, Final draft due on *May 6*.-->
-
 ## Piazza
 We'll be conducting all class-related discussion on Piazza this term. The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. We encourage you to ask questions when you're struggling to understand a concept. You can even do so anonymously and/or privately. <br>
 [Sign up for piazza here](http://piazza.com/columbia/spring2019/ieore8100_005_2019_1advancedtopicsinieor)<br>
 This is the link to your course page on Piazza.
 [View your class discussion here](http://piazza.com/columbia/spring2019/ieore8100_005_2019_1advancedtopicsinieor/home)
 
-## Schedule
+## Lecture notes (from Spring 2018)
 
 | Class|Topics|  Lecture notes |
 |------|------|----------------|
@@ -54,7 +45,15 @@ This is the link to your course page on Piazza.
 |Mar 26| Guest lecture by Boyuan Chen on RL in robotics|[Slides](docs/RL%20in%20Robotics.pdf)|
 |Apr 4- 30| Paper presentations | [List of papers](papers.md) |
 
-## References 
+<!--## References -->
+## Reference material
+* [Recent relevant articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
+<!--for paper selection -->
+  <!-- * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection. -->
+  <!-- Deadline for paper selection *March 9*-->
+* [Guidance on project](projects.md)
+  <!--* Deadline for 1-page project proposal *March 26*-->
+  <!--* Project reports due (1st draft) *April 30*, Final draft due on *May 6*.-->
 * Markov Decision Processes: Discrete Stochastic Dynamic Programming, by Martin L. Puterman
 * Neuro-dynamic Programming, by Dimitri P. Bertsekas and John Tsitsiklis
 * [Reinforcement Learning: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf),  by Andrew Barto and Richard S. Sutton
