@@ -1,11 +1,11 @@
-## Course Info
+## Course Info (Spring 2019)
 
 **[Syllabus](Reinforcement%20Learning%20course%20syllabus.pdf)**<br>
-**Lecture:** (644 Seeley W. Mudd Building, Columbia University): Mondays from 1:10-3:40pm<br>
+**Lecture schedule:**  TBD <!--(644 Seeley W. Mudd Building, Columbia University): Mondays from 1:10-3:40pm<br>-->
 **Instructor:** Shipra Agrawal<br>
-**Instructor Office Hours:** Wednesdays from 2:00pm-3:00pm, Mudd 423<br>
-**TA:** Robin Tang<br>
-**TA Office Hours:** 12:30-1:30 pm Fridays
+**Instructor Office Hours:** TBD <!--Wednesdays from 2:00pm-3:00pm, Mudd 423<br>-->
+**TA:** TBD <!--Robin Tang<br>-->
+**TA Office Hours:** TBD <!--12:30-1:30 pm Fridays-->
 
 ## Course requirements
 There will be roughly four programming assignments, based on Python+ [Tensorflow](https://www.tensorflow.org/) + [OpenAI gym](https://gym.openai.com/envs/). Every student is also required to read and present one recent research paper. A list of papers will be provided to choose from. Additionally, the students are required to do a research project. <br>
