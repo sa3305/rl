@@ -56,4 +56,4 @@ This is the link to your course page on Piazza.
 * Neuro-dynamic Programming, by Dimitri P. Bertsekas and John Tsitsiklis
 * [Reinforcement Learning: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf),  by Andrew Barto and Richard S. Sutton
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html), by Csaba Szepesv&aacute;ri
-<!-- Recent research papers on deep reinforcement learning--
+<!-- Recent research papers on deep reinforcement learning-->
