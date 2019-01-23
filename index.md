@@ -18,8 +18,8 @@ More information on the schedule and duration of paper presentation, and the nat
 The course will cover both theory of MDP (overview) and practice of reinforcement learning, with programming assignments in Python. While we will try to help with skeleton codes in the beginning, it might be too difficult for you if you have no experience in programming in any language. Basic background in linear algebra, optimization algorithms (e.g., gradient descent), probability and statistics is required. Knowledge of machine learning and advanced optimization methods will be useful, but not required.
 
 ## Sotware Platform for Programming Assignments
-<!--* **[Instabase Cloud Platform](cloudPlatform.md)** 
-for assignment implementation and submission -->
+* **[Instabase Cloud Platform](cloudPlatform.md)**
+for assignment implementation and submission
 * **[Software Installation Instructions](installation.md)**
 for Windows/Mac
 
