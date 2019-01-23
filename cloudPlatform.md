@@ -26,7 +26,7 @@ will see an initial repository named my-repo. You can change the repository name
 
 #### Step 3: 
 The course link <br>
-https://www.instabase.com/sa3305/ieor-8100-public <br>
+https://www.instabase.com/sa3305/ieor8100-spring2019 <br>
 contains the lab assignments (folder Labs): copy the required lab folder to your repository my-repo. 
 
 #### Step 4:
