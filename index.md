@@ -35,6 +35,7 @@ This is the link to your course page on Piazza.
 |------|------|----------------|
 |Jan 23    | Course Introduction |   [Intro slides](docs/IntroSpring2019.pdf)|
 |Jan 28    |  Introduction to MDP |     [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)         |
+
 <!--
 |Jan 29    | Bellman equations, Iterative algorithms for MDP| Section 4-5 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)|
 |Feb 5    | TD-learning, Q-learning (tabular)| [Lecture 2: tabular RL](docs/Lecture%202-%20Q%20learning%20tabular.pdf)|
