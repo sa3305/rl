@@ -39,8 +39,6 @@ This is the link to your course page on Piazza.
 ### Click here to see [Lecture notes from Spring 2018](lectureSpring2018.md)
 
 ## Reference material
-<!--* [Recent research articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
-for paper selection -->   <!-- * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection. -->   <!-- Deadline for paper selection *March 9*-->
 * [Guidance on project](projects.md)
   <!--* Deadline for 1-page project proposal *March 26*-->
   <!--* Project reports due (1st draft) *April 30*, Final draft due on *May 6*.-->
@@ -49,6 +47,8 @@ for paper selection -->   <!-- * If you are enrolled, you should also have recei
 * [Reinforcement Learning: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf),  by Andrew Barto and Richard S. Sutton
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html), by Csaba Szepesv&aacute;ri
 <!-- Recent research papers on deep reinforcement learning-->
+<!--* [Recent research articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
+for paper selection -->   <!-- * If you are enrolled, you should also have received an invitation to edit another document, where you can enter your paper selection. -->   <!-- Deadline for paper selection *March 9*-->
 
 <!--
 |Jan 29    | Bellman equations, Iterative algorithms for MDP| Section 4-5 of [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)|
