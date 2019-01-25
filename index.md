@@ -29,7 +29,7 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 This is the link to your course page on Piazza.
 [View your class discussion here](http://piazza.com/columbia/spring2019/ieore8100_005_2019_1advancedtopicsinieor/home)
 
-## [Lecture notes Spring 2019]
+## Lecture notes Spring 2019
 
 | Class|Topics|  Lecture notes |
 |------|------|----------------|
@@ -46,7 +46,7 @@ This is the link to your course page on Piazza.
 |Mar 26| Guest lecture by Boyuan Chen on RL in robotics|[Slides](docs/RL%20in%20Robotics.pdf)|
 |Apr 4- 30| Paper presentations | [List of papers](papers.md) |-->
 
-## [Lecture notes from Spring 2018](lectureSpring2018.md)
+### Click here to see [Lecture notes from Spring 2018](lectureSpring2018.md)
 <!--## References -->
 ## Reference material
 * [Recent research articles](https://docs.google.com/document/d/1FGrwP0pLx0fH0-l0YSb9TGlcfEV0haZVc7g07vTbAZk/edit?usp=sharing) 
