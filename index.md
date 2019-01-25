@@ -29,7 +29,7 @@ We'll be conducting all class-related discussion on Piazza this term. The quicke
 This is the link to your course page on Piazza.
 [View your class discussion here](http://piazza.com/columbia/spring2019/ieore8100_005_2019_1advancedtopicsinieor/home)
 
-## Lecture notes (from Spring 2018)
+## [Lecture notes from Spring 2018](lectureSpring2018.md)
 
 | Class|Topics|  Lecture notes |
 |------|------|----------------|
