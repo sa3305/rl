@@ -1,9 +1,13 @@
 ## DATES
 
-*	Project proposals are due on March 26, 2018
-    * Requires Brief Description of the project, at most 1-page
+*	Project proposals are due on March 1.
+    * Each project should have 2-3 contributors. For <2 or >3 contributors, please speak to the instructor during office hours.
+    * Provide Brief Description of the project at most 2-page, and least 1 page. Summarize the project, provide a reading list, and directions to be explored.
     * Online Submission Only, link will be provided soon
-* First draft of project reports are due on April 30. You may use another week to improve your presentation, and submit final report on May 6.
+* A progress report is due on April 5.
+* First draft of project reports are due on May 3. 
+* A poster session will be organized (tentatively May 6) where you can present your results. For survey papers, I will try to schedule presentations in class, depending on number of such projects proposed.
+* You may use another week to improve the reports, and submit final report by May 10.
 
 
 ## Guidance on choosing a topic
@@ -23,7 +27,7 @@ Here are examples of possible types of projects:
 
 ## Writing a final report
 
-The end result of your project should be a written report clearly and concisely describing what you did, what results you got and what the results mean. Your report should be 3-5 pages long. If necessary, you can include further details or plots/figures in at most 5 page appendix. The report should use 11pt font, 1-inch margins, and single spacing. Papers that vary from these guidelines risk receiving a grade deduction and/or some sections not being read.
+The end result of your project should be a written report clearly and concisely describing what you did, what results you got and what the results mean. Your report should be 5-6 pages long. If necessary, you can include further details or plots/figures in at most 5 page appendix. The report should use 11pt font, 1-inch margins, and single spacing. Papers that vary from these guidelines risk receiving a grade deduction and/or some sections not being read.
 
 Your report should follow the general format of a scholarly paper in this area. You should write your report as clearly as possible in a manner that would be understandable to a fellow student of this course. In other words, you should not assume that the reader has background beyond what has been covered in class (as well as the prerequisites of the course).
 
