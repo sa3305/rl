@@ -1,7 +1,7 @@
 ## Course Info (Spring 2019)
 
 **[Syllabus](Reinforcement%20Learning%20course%20syllabus.pdf)**<br>
-**Lecture schedule:**  Mudd 303 Monday 11:40-12:55pm
+**Lecture schedule:**  Mudd 303 Monday 11:40-12:55pm <br>
 **Instructor:** Shipra Agrawal<br>
 **Instructor Office Hours:** Wednesdays from 3:00pm-4:00pm, Mudd 423<br>
 **TA:** Robin (Yunhao) Tang <br>
