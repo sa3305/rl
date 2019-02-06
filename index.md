@@ -1,11 +1,11 @@
 ## Course Info (Spring 2019)
 
 **[Syllabus](Reinforcement%20Learning%20course%20syllabus.pdf)**<br>
-**Lecture schedule:**  TBD <!--(644 Seeley W. Mudd Building, Columbia University): Mondays from 1:10-3:40pm --><br>
+**Lecture schedule:**  Mudd 303 Monday 11:40-12:55pm
 **Instructor:** Shipra Agrawal<br>
-**Instructor Office Hours:** Wednesdays from 3:00pm-4:00pm, Mudd 423
+**Instructor Office Hours:** Wednesdays from 3:00pm-4:00pm, Mudd 423<br>
 **TA:** Robin (Yunhao) Tang <br>
-**TA Office Hours:** TBD <!--12:30-1:30 pm Fridays-->
+**TA Office Hours:** 3:30-4:30pm Tuesday at MUDD 301
 
 ## Course requirements
 (Course requirements are subject to change based on class size) <br>
