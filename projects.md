@@ -1,6 +1,6 @@
 ## DATES
 
-*	Project proposals are due on March 1.
+*	Project proposals are due on March 8. (deadline moved)
     * Each project should have 2-3 contributors. For <2 or >3 contributors, please speak to the instructor during office hours.
     * Provide Brief Description of the project at most 2-page, and least 1 page. Summarize the project, provide a reading list, and directions to be explored.
     * Online Submission Only, link will be provided soon
