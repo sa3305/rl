@@ -7,6 +7,9 @@
 **TA:** Robin (Yunhao) Tang <br>
 **TA Office Hours:** 3:30-4:30pm Tuesday at MUDD 301
 
+## Upcoming deadlines (New)
+* Project proposals due on March 8. 
+
 ## Course requirements
 (Course requirements are subject to change based on class size) <br>
 There will be roughly four programming assignments, based on Python+ [Tensorflow](https://www.tensorflow.org/) + [OpenAI gym](https://gym.openai.com/envs/). <br>
