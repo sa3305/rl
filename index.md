@@ -1,4 +1,4 @@
-## Course Info (Spring 2019)
+## Course Info 
 
 **[Syllabus](Reinforcement%20Learning%20course%20syllabus.pdf)**<br>
 **Lecture schedule:**  Mudd 303 Monday 11:40-12:55pm <br>
