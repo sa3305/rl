@@ -9,7 +9,7 @@
 
 ## Upcoming deadlines (New)
 * Lab 1 due on March 1 
-* Project proposals due on March 8. 
+* Project proposals due on March 8. Here is some [Guidance on selecting a project topic](projects.md) Project are expected to be conducted in teams of size 2 to 3 except for special circumstances.
 
 ## Course requirements
 (Course requirements are subject to change based on class size) <br>
