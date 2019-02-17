@@ -8,6 +8,7 @@
 **TA Office Hours:** 3:30-4:30pm Tuesday at MUDD 301
 
 ## Upcoming deadlines (New)
+* Lab 1 due on March 1 
 * Project proposals due on March 8. 
 
 ## Course requirements
