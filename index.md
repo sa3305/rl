@@ -41,7 +41,7 @@ This is the link to your course page on Piazza.
 |Jan 28-Feb 11    |  Introduction to MDP <br> Bellman equations, Value iteration, Policy iteration |     [Lecture 1: MDP](docs/Lecture%201%20-MDP.pdf)|
 |Feb 13, Feb 18 |  TD-learning, Q-learning (tabular)| [Lecture 2: tabular RL](docs/Lecture%202-%20Q%20learning%20tabular.pdf)|
 |Feb 18   | Scalable Q-learning, DQN | [Lecture 3: Q-learning function approximation](docs/Lecture%203%20-%20Q-learning%20function%20approximation.pdf)|
-|Feb 25 | Intro to deep learning using Tensorflow | [Tensorflow and deep learning tutorial](docs/feb12slides.pdf)|
+|Feb 25 | Intro to deep learning using Tensorflow | [Tensorflow and deep learning tutorial](docs/rltutorial.pdf)|
 
 
 ### Click here to see [Lecture notes from Spring 2018](lectureSpring2018.md)
