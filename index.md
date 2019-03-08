@@ -9,7 +9,9 @@
 
 ## Upcoming deadlines (New)
 * Lab 1 due on March 1 
-* Project proposals due on March 8. Here is some [Guidance on selecting a project topic](projects.md) Project are expected to be conducted in teams of size 2 to 3 except for special circumstances.
+* Project proposals due on March 8. 
+** Here is some [Guidance on selecting a project topic](projects.md) Project are expected to be conducted in teams of size 2 to 3 except for special circumstances.
+** Submit your proposals  (1-2 page) on instabase using the following [Link](https://www.instabase.com/apps/file-submission/cmd/submit/4c4895fc-dd2e-4c86-b06a-d16c35325743). Only one person in the team should submit the proposal. The proposal should list the names and uni of all team members. 
 
 ## Course requirements
 (Course requirements are subject to change based on class size) <br>
