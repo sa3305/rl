@@ -50,7 +50,10 @@ This is the link to your course page on Piazza.
 |Feb 13, Feb 18 |  TD-learning, Q-learning (tabular)| [Lecture 2: tabular RL](docs/Lecture%202-%20Q%20learning%20tabular.pdf)|
 |Feb 18   | Scalable Q-learning, DQN | [Lecture 3: Q-learning function approximation](docs/Lecture%203%20-%20Q-learning%20function%20approximation.pdf)|
 |Feb 25 | Intro to deep learning using Tensorflow | [Tensorflow and deep learning tutorial](docs/rltutorial.pdf)|
-
+|Feb 27 -Mar 11  |  Approximate DP theory, Fitted value iteration (the lecture notes are under construction, will be updated soon)| [Lecture 4: Approximate dp](docs/Lecture%204%20-%20approximate%20DP.pdf)|
+|Mar 13 | Policy gradient methods | [Lecture 5: policy gradient](docs/Lecture%205%20-%20policy%20gradients.pdf)|
+|-Spring break -| - Spring break - | -Spring break - |
+|Mar 25 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
 
 ### Click here to see [Lecture notes from Spring 2018](lectureSpring2018.md)
 
