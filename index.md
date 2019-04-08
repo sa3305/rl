@@ -52,7 +52,7 @@ This is the link to your course page on Piazza.
 |Feb 25 | Intro to deep learning using Tensorflow | [Tensorflow and deep learning tutorial](docs/rltutorial.pdf)|
 |Feb 27 -Mar 11  |  Approximate DP theory, Fitted value iteration (the lecture notes are under construction, will be updated soon)| [Lecture 4: Approximate dp](docs/Lecture%204%20-%20approximate%20DP.pdf)|
 |Mar 13 | Policy gradient methods | [Lecture 5: policy gradient](docs/Lecture%205%20-%20policy%20gradients.pdf)|
-|-Spring break -| - Spring break - | -Spring break - |
+|-| - Spring break - | -Spring break - |
 |Mar 25 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
 |April 1,3, 8  | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
 
