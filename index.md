@@ -54,7 +54,8 @@ This is the link to your course page on Piazza.
 |Mar 13 | Policy gradient methods | [Lecture 5: policy gradient](docs/Lecture%205%20-%20policy%20gradients.pdf)|
 |-| - Spring break - | -Spring break - |
 |Mar 25 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
-|April 1,3, 8  | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
+|April 1,3, 8, 11  | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
+|April 15 | Regret analysis (MAB and RL) | [Slides: part 1](docs/Slides-ExplorationExploitationTheory-part1.pdf)|
 
 ### Click here to see [Lecture notes from Spring 2018](lectureSpring2018.md)
 
