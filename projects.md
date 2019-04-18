@@ -5,8 +5,8 @@
     * Provide Brief Description of the project at most 2-page, and least 1 page. Summarize the project, provide a reading list, and directions to be explored.
     * Online Submission Only, link will be provided soon
 * A progress report is due on April 5.
-* First draft of project reports are due on May 3. 
-* A poster session will be organized (tentatively May 6) where you can present your results. For survey papers, I will try to schedule presentations in class, depending on number of such projects proposed.
+<!--* First draft of project reports are due on May 3. -->
+* A poster session will be organized (May 6) where you can present your results. For survey papers, I will try to schedule presentations in class, depending on number of such projects proposed.
 * You may use another week to improve the reports, and submit final report by May 10.
 
 
