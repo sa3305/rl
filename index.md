@@ -17,7 +17,7 @@
 * Lab 2,3 due on Mar 15
 * A 3-5 page progress report on project due on **April 5** Submit using following [Link](https://www.instabase.com/apps/file-submission/cmd/submit/507804ea-1cea-4381-9f0d-bcd78d5614db).
 * Lab 4 due on April 12
-* Final project report due on May 6.
+* Poster session on Monday May 6. Final project report due on Friday May 10.
 
 ## Course requirements
 (Course requirements are subject to change based on class size) <br>
