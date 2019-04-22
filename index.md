@@ -18,12 +18,12 @@
 * A 3-5 page progress report on project due on **April 5** Submit using following [Link](https://www.instabase.com/apps/file-submission/cmd/submit/507804ea-1cea-4381-9f0d-bcd78d5614db).
 * Lab 4 due on April 12
 -->
-<details> <summary>Poster session on Monday **May 6 from 10am - 1pm** in the DSI space on 4th floor.</summary> 
+<details> <summary>Poster session on Monday May 6 from 10am - 1pm in the DSI space on 4th floor.</summary> 
     * you do not need to print actual "posters", you can print slides (9-12) and put them on the easel we will provide. 
     * participating poster session is mandatory - at least one person from every team should be present. We will be evaluating your projects based on the poster (and your description), and it is also a fun way to share your findings with your classmates, other fellow students and faculty, and possibly find future collaborators. 
     * Presenting a poster is not required for **survey project**. (Survey project is one where the main goal of the project is to do a thorough study of existing literature in some subtopic or application of reinforcement learning.) Survey projects need to presented in class. If you indicated that you are doing a survey in your proposal, you should have already been contacted for scheduling class presentation. Contact the instructor asap if you haven't been contacted.
 </details>
-<details> <summary> Final project report due on Friday **May 10**. </summary>
+<details> <summary> Final project report due on Friday May 10. </summary>
     * Instructions for preparing the report: The end result of your project should be a written report clearly and concisely describing what you did, comparison to relevant related work, what results you got and what the results mean.  The main body of your report should be 5-6 pages long. You can include further details or plots/figures in at most 5 page appendix. The report should use 11pt font, 1-inch margins, and single spacing.  For further guidance, look [here](projects.md)
     * For survey projects reports are of utmost importance. They should thoroughly describe the relevant literature, along with your own thoughts on their contributions and open challenges. If you have your own derivations or simplifications of some proofs, please include them too. For survey projects, you may choose to make up to 7 page report with no appendix. (or up to 6 page report with at most 5 page appendix)
     * Reports that vary from these guidelines risk receiving a grade deduction and/or some sections not being read. 
@@ -67,7 +67,17 @@ This is the link to your course page on Piazza.
 |Mar 25 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
 |April 1,3, 8, 11  | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
 |April 15, April 17 | Regret analysis (MAB and RL) | [Slides](docs/Slides-ExplorationExploitationTheory.pdf)|
-
+|April 22 | Multi-agent RL survey by Mitchell Perry <br> 
+<details> <summary> Suggested readings </summary> 
+ * Multi-agent actor-critic for mixed cooperative-competitive environments (Lowe et al., 2018). 
+ * Nash Q-learning for general-sum stochastic games (Hu and Wellman, 2003).
+ * Multiagent cooperation and competition using deep reinforcement learning (Tampuu et al., 2015).
+ * Learning to communicate with deep multi-agent reinforcement learning (Foerster et al., 2016).
+ * Multi-agent reinforcement learning in sequential social dilemmas (Liebo et al., 2017).
+</details> 
+ | [Slides](docs/Slides-ExplorationExploitationTheory.pdf)|
+|April 22 | Multi-agent RL| [Slides](docs/Slides-ExplorationExploitationTheory.pdf)|
+|April 24 | Regret analysis (MAB and RL) | [Slides](docs/Slides-ExplorationExploitationTheory.pdf)|
 ### Click here to see [Lecture notes from Spring 2018](lectureSpring2018.md)
 
 ## Reference material
