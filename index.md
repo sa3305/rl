@@ -19,14 +19,16 @@
 * Lab 4 due on April 12
 -->
 <details> <summary>Poster session on Monday May 6 from 10am - 1pm in the DSI space on 4th floor.</summary> 
-    * you do not need to print actual "posters", you can print slides (9-12) and put them on the easel we will provide. 
-    * participating poster session is mandatory - at least one person from every team should be present. We will be evaluating your projects based on the poster (and your description), and it is also a fun way to share your findings with your classmates, other fellow students and faculty, and possibly find future collaborators. 
-    * Presenting a poster is not required for **survey project**. (Survey project is one where the main goal of the project is to do a thorough study of existing literature in some subtopic or application of reinforcement learning.) Survey projects need to presented in class. If you indicated that you are doing a survey in your proposal, you should have already been contacted for scheduling class presentation. Contact the instructor asap if you haven't been contacted.
+    <ul><li> you do not need to print actual "posters", you can print slides (9-12) and put them on the easel we will provide. </li>
+    <li> participating poster session is mandatory - at least one person from every team should be present. We will be evaluating your projects based on the poster (and your description), and it is also a fun way to share your findings with your classmates, other fellow students and faculty, and possibly find future collaborators. </li>
+    <ul><li> Presenting a poster is not required for **survey project**. (Survey project is one where the main goal of the project is to do a thorough study of existing literature in some subtopic or application of reinforcement learning.) Survey projects need to presented in class. If you indicated that you are doing a survey in your proposal, you should have already been contacted for scheduling class presentation. Contact the instructor asap if you haven't been contacted.</li>
+     </ul>
 </details>
-<details> <summary> Final project report due on Friday May 10. </summary>
-    * Instructions for preparing the report: The end result of your project should be a written report clearly and concisely describing what you did, comparison to relevant related work, what results you got and what the results mean.  The main body of your report should be 5-6 pages long. You can include further details or plots/figures in at most 5 page appendix. The report should use 11pt font, 1-inch margins, and single spacing.  For further guidance, look [here](projects.md)
-    * For survey projects reports are of utmost importance. They should thoroughly describe the relevant literature, along with your own thoughts on their contributions and open challenges. If you have your own derivations or simplifications of some proofs, please include them too. For survey projects, you may choose to make up to 7 page report with no appendix. (or up to 6 page report with at most 5 page appendix)
-    * Reports that vary from these guidelines risk receiving a grade deduction and/or some sections not being read. 
+<details> <summary> Final project report due on Friday May 10. </summary> 
+ <ul> <li> Instructions for preparing the report: The end result of your project should be a written report clearly and concisely describing what you did, comparison to relevant related work, what results you got and what the results mean.  The main body of your report should be 5-6 pages long. You can include further details or plots/figures in at most 5 page appendix. The report should use 11pt font, 1-inch margins, and single spacing.  For further guidance, look [here](projects.md) </li>
+    <li> For survey projects reports are of utmost importance. They should thoroughly describe the relevant literature, along with your own thoughts on their contributions and open challenges. If you have your own derivations or simplifications of some proofs, please include them too. For survey projects, you may choose to make up to 7 page report with no appendix. (or up to 6 page report with at most 5 page appendix) </li>
+    <li> Reports that vary from these guidelines risk receiving a grade deduction and/or some sections not being read. </li>
+ </ul>
 </details>
  
 
