@@ -21,7 +21,7 @@
 <details> <summary>Poster session on Monday May 6 from 10am - 1pm in the DSI space on 4th floor.</summary> 
     <ul><li> you do not need to print actual "posters", you can print slides (9-12) and put them on the easel we will provide. </li>
     <li> participating poster session is mandatory - at least one person from every team should be present. We will be evaluating your projects based on the poster (and your description), and it is also a fun way to share your findings with your classmates, other fellow students and faculty, and possibly find future collaborators. </li>
-    <ul><li> Presenting a poster is not required for **survey project**. (Survey project is one where the main goal of the project is to do a thorough study of existing literature in some subtopic or application of reinforcement learning.) Survey projects need to presented in class. If you indicated that you are doing a survey in your proposal, you should have already been contacted for scheduling class presentation. Contact the instructor asap if you haven't been contacted.</li>
+    <li> Presenting a poster is not required for **survey project**. (Survey project is one where the main goal of the project is to do a thorough study of existing literature in some subtopic or application of reinforcement learning.) Survey projects need to presented in class. If you indicated that you are doing a survey in your proposal, you should have already been contacted for scheduling class presentation. Contact the instructor asap if you haven't been contacted.</li>
      </ul>
 </details>
 <details> <summary> Final project report due on Friday May 10. </summary> 
