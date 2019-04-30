@@ -21,11 +21,11 @@
 <details> <summary>Poster session on Monday May 6 from 10am - 1pm in the DSI space on 4th floor.</summary> 
     <ul><li> you do not need to print actual "posters", you can print slides (9-12) and put them on the easel we will provide. </li>
     <li> participating poster session is mandatory - at least one person from every team should be present. We will be evaluating your projects based on the poster (and your description), and it is also a fun way to share your findings with your classmates, other fellow students and faculty, and possibly find future collaborators. </li>
-    <li> Presenting a poster is not required for **survey project**. (Survey project is one where the main goal of the project is to do a thorough study of existing literature in some subtopic or application of reinforcement learning.) Survey projects need to presented in class. If you indicated that you are doing a survey in your proposal, you should have already been contacted for scheduling class presentation. Contact the instructor asap if you haven't been contacted.</li>
+     <li> Presenting a poster is not required for <b>survey project</b>. (Survey project is one where the main goal of the project is to do a thorough study of existing literature in some subtopic or application of reinforcement learning.) Survey projects need to presented in class. If you indicated that you are doing a survey in your proposal, you should have already been contacted for scheduling class presentation. Contact the instructor asap if you haven't been contacted.</li>
      </ul>
 </details>
 <details> <summary> Final project report due on Friday May 10. </summary> 
- <ul> <li> Instructions for preparing the report: The end result of your project should be a written report clearly and concisely describing what you did, comparison to relevant related work, what results you got and what the results mean.  The main body of your report should be 5-6 pages long. You can include further details or plots/figures in at most 5 page appendix. The report should use 11pt font, 1-inch margins, and single spacing.  For further guidance, look [here](projects.md) </li>
+ <ul> <li> Instructions for preparing the report: The end result of your project should be a written report clearly and concisely describing what you did, comparison to relevant related work, what results you got and what the results mean.  The main body of your report should be 5-6 pages long. You can include further details or plots/figures in at most 5 page appendix. The report should use 11pt font, 1-inch margins, and single spacing.  For further guidance, look <a href="projects.md">here</a> </li>
     <li> For survey projects reports are of utmost importance. They should thoroughly describe the relevant literature, along with your own thoughts on their contributions and open challenges. If you have your own derivations or simplifications of some proofs, please include them too. For survey projects, you may choose to make up to 7 page report with no appendix. (or up to 6 page report with at most 5 page appendix) </li>
     <li> Reports that vary from these guidelines risk receiving a grade deduction and/or some sections not being read. </li>
  </ul>
@@ -69,13 +69,18 @@ This is the link to your course page on Piazza.
 |Mar 25 | Actor-critic methods | [Lecture 6: Actor-critic](docs/Lecture%206%20-%20Actor%20Critic.pdf)|
 |April 1,3, 8, 11  | Approximate RL, Intro to TRPO | [Lecture 7: Approximate RL](docs/Lecture%207%20-Approximate%20RL.pdf)|
 |April 15, April 17 | Regret analysis (MAB and RL) | [Slides](docs/Slides-ExplorationExploitationTheory.pdf)|
-|April 22 | Multi-agent RL: presentation by Mitchell Perry  <br /> <ul><li> Multi-agent actor-critic for mixed cooperative-competitive environments (Lowe et al., 2018). </li><li> Nash Q-learning for general-sum stochastic games (Hu and Wellman, 2003).</li> <li> Multiagent cooperation and competition using deep reinforcement learning (Tampuu et al., 2015). </li> <li> Learning to communicate with deep multi-agent reinforcement learning (Foerster et al., 2016). </li> <li> Multi-agent reinforcement learning in sequential social dilemmas (Liebo et al., 2017). </li> </ul>| Slides TBA|
-|April 24 | Robotics and RL: presentation by Boyuan Chen <details> <summary> Suggested readings </summary> <ul><li><a href= https://robotics.sciencemag.org/content/4/26/eaau5872>Learning agile and dynamic motor skills for legged robots </a> </li><li> <a href=https://robotics.sciencemag.org/content/4/26/eaau9354>Task-agnostic self-modeling machines</a></li></ul></details>| Slides TBA|
-|April 29 | Distributional RL: presentation by Yadin Rozov <details> <summary> Suggested readings </summary> <ul><li> https://arxiv.org/pdf/1707.06887.pdf</li><li> https://arxiv.org/pdf/1710.10044.pdf </li><li> https://arxiv.org/pdf/1806.06923.pdf</li><li>https://arxiv.org/pdf/1804.08617.pdf</li></ul></details>| Slides TBA|
+|April 22 | Multi-agent RL: presentation by Mitchell Perry | Slides TBA|
+|April 24 | Robotics and RL: presentation by Boyuan Chen | Slides TBA|
+|April 29 | Distributional RL: presentation by Yadin Rozov | Slides TBA|
+|May 1 | Safe RL by Gejia Zhang, RL in financial portfolio management by Gary Buranasampatanon | Slides TBA|
 
 <!--|April 22 | Multi-agent RL for Natural Language Processing | [Slides](docs/Slides-ExplorationExploitationTheory.pdf)|-->
 ### Click here to see [Lecture notes from Spring 2018](lectureSpring2018.md)
 
+ <!--<br /> <ul><li> Multi-agent actor-critic for mixed cooperative-competitive environments (Lowe et al., 2018). </li><li> Nash Q-learning for general-sum stochastic games (Hu and Wellman, 2003).</li> <li> Multiagent cooperation and competition using deep reinforcement learning (Tampuu et al., 2015). </li> <li> Learning to communicate with deep multi-agent reinforcement learning (Foerster et al., 2016). </li> <li> Multi-agent reinforcement learning in sequential social dilemmas (Liebo et al., 2017). </li> </ul>
+ <details> <summary> Suggested readings </summary> <ul><li><a href= https://robotics.sciencemag.org/content/4/26/eaau5872>Learning agile and dynamic motor skills for legged robots </a> </li><li> <a href=https://robotics.sciencemag.org/content/4/26/eaau9354>Task-agnostic self-modeling machines</a></li></ul></details>
+ <details> <summary> Suggested readings </summary> <ul><li> https://arxiv.org/pdf/1707.06887.pdf</li><li> https://arxiv.org/pdf/1710.10044.pdf </li><li> https://arxiv.org/pdf/1806.06923.pdf</li><li>https://arxiv.org/pdf/1804.08617.pdf</li></ul></details>-->
+ 
 ## Reference material
 * [Guidance on project](projects.md)
   <!--* Deadline for 1-page project proposal *March 26*-->
