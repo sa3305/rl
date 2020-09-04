@@ -1,3 +1,4 @@
+## Spring 2019
 ## Course Info 
 
 **[Syllabus](Reinforcement%20Learning%20course%20syllabus.pdf)**<br>
